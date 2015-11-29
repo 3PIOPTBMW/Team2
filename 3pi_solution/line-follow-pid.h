@@ -1,0 +1,1 @@
+int line_follow_pid(unsigned int* sensors, unsigned int position, unsigned int last_position, _Bool ignore_outer_sensor);
